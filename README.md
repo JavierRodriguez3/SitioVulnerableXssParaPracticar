@@ -1,9 +1,1 @@
-# SitioPracticaVulnerableXss-SitioPhising
-# SitioPracticaVulnerableXss-SitioPhising
-# SitioPracticaVulnerableXss-SitioPhising
-# SitioPracticaVulnerableXss-SitioPhising
-# SitioVulnerableXssParaPracticar
-# SitioVulnerableXssParaPracticar
-# SitioVulnerableXssParaPracticar
-# SitioVulnerableXssParaPracticar
 # SitioVulnerableXssParaPracticar
